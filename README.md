@@ -2,9 +2,10 @@
 REBOOT LABS - Database Design Project
 
 # Project Description 
-We are going to develop the database system for a sale section of LEGO® online store.
+We are going to develop the database system for a sale section of LEGO® online store. The aspects of a sale section that we are developing will be the information relevant to the product in the LEGO® market. 
 
-The aspects of a sale section that we are developing will be the information relevant to the product in the LEGO® market. The products are grouped into hierarchical categories. Customers can browse products, place orders by the piece or the set.
+* The products are grouped into hierarchical categories in type of lego_block, colors and sets.
+* Customers can browse products, place orders by the piece or the set.
 
 # Database Schema
 
