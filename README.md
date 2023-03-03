@@ -21,7 +21,7 @@ So, we are deciding to develop the database system for a sale section of LEGO® 
 ![LEGO V 1](https://user-images.githubusercontent.com/121776133/222679220-09866240-155f-4fca-88b3-af5da260bb97.png)
 
 
-# Database Flowchart
+# Database 
 #### Entitles
 * customers
 * sales
