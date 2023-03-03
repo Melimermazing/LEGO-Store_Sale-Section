@@ -7,7 +7,7 @@ Nowadays, the concept of an online store is gaining popularity. It provides a us
 
 For example, in LEGO® marketplace, customers can see the complete LEGO® sets. However, there is a large number of parts in one set. 
 
-So, we are deciding to develop the database system for a sale section of LEGO® online store. The aspects of a sale section that we are developing will be related to the products in the real life LEGO® marketplace [BrickLink](https://www.bricklink.com).
+So, we are deciding to develop the database system for a sale section of LEGO® online store. The aspects of a sale section that we are developing will be related to the products in real life LEGO® marketplace [BrickLink](https://www.bricklink.com).
 
 ![Screenshot from 2023-03-03 09-50-07](https://user-images.githubusercontent.com/121776133/222689430-c516ea48-be39-4110-89b4-ab4e1aa5159f.png)
 
