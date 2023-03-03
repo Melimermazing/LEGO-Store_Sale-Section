@@ -5,7 +5,7 @@ REBOOT LABS - Database Design Project
 
 Nowadays, the concept of an online store is gaining popularity. It provides a user-friendly way of browsing products, and it is also possible to view different products under a category.
 
-For example, in LEGO® marketplace, customers can see the complete LEGO® sets. However, there is a large number of parts to one set. 
+For example, in LEGO® marketplace, customers can see the complete LEGO® sets. However, there is a large number of parts in one set. 
 
 So, we are deciding to develop the database system for a sale section of LEGO® online store. The aspects of a sale section that we are developing will be related to the products in the real life LEGO® marketplace [BrickLink](https://www.bricklink.com).
 
